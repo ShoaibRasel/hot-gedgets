@@ -15,10 +15,53 @@
 }
 .card{
     box-shadow:10px 5px 10px lightgrey;
-    border-radius:10px;
+    border-radius:15px;
 }
 .card img{
     width: 70%;
- margin-left: auto;
- margin-right:auto;
+    margin-left: auto;
+    margin-right:auto;
 }
+
+
+
+
+
+#catagories{
+    margin-top: 100px;
+    margin-bottom: 60px;
+  }
+  
+  #catagories .title{
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  #catagories .title h2{
+    border-bottom: 2px solid yellow;
+    display: inline-block;
+    width:170px;
+    padding-bottom:10px;
+  }
+  
+  #catagories .img{
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 25px #e3e3e3;
+  }
+  
+  #catagories .p-img-2{
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0px 0px 25px #e3e3e3;
+  }
+  
+  /* catagrois part end  */
+  
+  
+  footer{
+    text-align: center;
+  }
+  
