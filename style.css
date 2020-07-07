@@ -1,0 +1,24 @@
+
+.carousel-item {
+    padding: 20px 40px;
+}
+.buy-now-button {
+    background-color: black;
+    color:white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.see-all{
+    margin-top: -30px;
+}
+.card{
+    box-shadow:10px 5px 10px lightgrey;
+    border-radius:10px;
+}
+.card img{
+    width: 70%;
+ margin-left: auto;
+ margin-right:auto;
+}
